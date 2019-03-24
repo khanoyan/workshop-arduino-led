@@ -9,6 +9,6 @@ GCC Makerspace Arduino LED Workshop Material
 1. Open Arduino IDE
 1. Tools -> Manage Libraries
 1. Search for "neopixel"
-1. Install "Adafriot Neopixel by Adafruit" library
+1. Install "Adafruit Neopixel by Adafruit" library
 
 
