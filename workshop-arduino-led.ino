@@ -2,7 +2,7 @@
 
 // Configuration parameters
 #define NEOPIXEL_PIN 3
-#define NEOPIXEL_LED_COUNT 12
+#define NEOPIXEL_LED_COUNT 13
 #define POT_1_PIN A0
 #define POT_2_PIN A1
 #define POT_1 0
